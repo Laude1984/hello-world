@@ -1,2 +1,3 @@
 # hello-world
 I'm here to learn...
+Saying "Hello" from Auckland, where I am currently completing my post-graduate in Business Analytics. 
